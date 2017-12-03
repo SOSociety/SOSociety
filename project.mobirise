@@ -503,7 +503,8 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".mbr-section-title B": {
               "color": "#ffffff"
@@ -535,7 +536,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             }
           },
           "_name": "content5",
