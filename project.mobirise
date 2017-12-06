@@ -581,7 +581,7 @@
               "color": "#cccccc"
             },
             ".card-title B": {
-              "color": "#ffffff"
+              "color": "#ff7f9f"
             }
           },
           "_name": "features2",
@@ -709,7 +709,7 @@
               "color": "#cccccc"
             },
             ".foot-title B": {
-              "color": "#ffffff"
+              "color": "#ff7f9f"
             },
             ".foot-logo": {
               "color": "#ffffff"
